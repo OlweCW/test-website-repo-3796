@@ -1,6 +1,7 @@
 ---
 title: Contact
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
+N'hésitez pas à me contacter ! 
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+- 🐘[olwe@fedi.cyberwitches.club](https://fedi.cyberwitches.club/@olwe)
+- ✉️ [olwe@e.email](mailto:olwe@e.email)
